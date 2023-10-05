@@ -13,8 +13,10 @@
 
 - [Sobre mí](#-sobre-mí)
 - [Tecnologías](#-tecnologías)
+<!--
 - [Proyectos Destacados](#-proyectos-destacados)
 - [Cómo Contactarme](#-cómo-contactarme)
+-->
 - [Estadísticas de GitHub](#-estadísticas-de-github)
 
 ## 🙋‍♂️ Sobre mí
