@@ -1,37 +1,34 @@
-<h1 align="center"><b>Hola, soy Martin Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Martin Martinez 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Martin+Martinez..&hearts;++;Self-taught+Full+Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+Autodidacta,;Estudiante+de+Ciencias+de+la+Computación,;Aficionado+de+CTF,;Aprendiz+activo/investigador,;Amante+de+aprender+cosas+nuevas...❤️">
 </p>
 
-<br>
-
-## Índice
-
-- [Sobre mí](#sobre-mí)
-- [Tecnologías](#tecnologías)
-- [Proyectos Destacados](#proyectos-destacados)
-- [Cómo Contactarme](#cómo-contactarme)
-
-## Sobre mí
-
-Breve descripción sobre ti, tus intereses, objetivos, etc.
-
-## Tecnologías
-
-Lista de tecnologías y herramientas que utilizas.
-
-## Proyectos Destacados
-
-Descripción y enlaces a algunos de tus proyectos destacados.
-
-## Cómo Contactarme
-
-Información de contacto y enlaces a otras plataformas/redes sociales.
-
-<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <!-- otros badges -->
+  <a href="https://twitter.com/yourhandle"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourhandle?style=social"></a>
+  <a href="https://github.com/yourusername"><img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=Follow%20on%20GitHub&style=social"></a>
 </p>
+
+## 📑 Índice
+
+- [Sobre mí](#-sobre-mí)
+- [Tecnologías](#-tecnologías)
+- [Proyectos Destacados](#-proyectos-destacados)
+- [Cómo Contactarme](#-cómo-contactarme)
+- [Estadísticas de GitHub](#-estadísticas-de-github)
+
+## 🙋‍♂️ Sobre mí
+
+👨‍💻 Soy un desarrollador Full Stack autodidacta, actualmente estudiando Ciencias de la Computación.
+
+🔍 Me encanta resolver problemas y aprender nuevas tecnologías.
+
+🎓 Mi objetivo es contribuir a proyectos de código abierto y construir soluciones innovadoras.
+
+## 🔧 Tecnologías
+
+```plaintext
+- Lenguajes de Programación: JavaScript, Python, Java, C++
+- Frameworks: React.js, Node.js, Express.js
+- Bases de Datos: MongoDB, PostgreSQL, MySQL
+- Herramientas: Git, GitHub, Docker, CI/CD
