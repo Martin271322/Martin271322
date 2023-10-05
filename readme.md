@@ -25,6 +25,7 @@
 
 🎓 Mi objetivo es contribuir a proyectos de código abierto y construir soluciones innovadoras.
 
+<!--
 ## 🔧 Tecnologías
 <!-- Badges -->
 <p align="center">
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <!-- otros badges -->
 </p>
+-->
 
 ## 🔧 Tecnologías
 
