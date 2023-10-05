@@ -34,7 +34,7 @@
 </p>
 
 
-```plaintext
+
 - Lenguajes de Programación: JavaScript, Python, Java, C++
 - Frameworks: React.js, Node.js, Express.js
 - Bases de Datos: MongoDB, PostgreSQL, MySQL
