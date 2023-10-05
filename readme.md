@@ -24,7 +24,6 @@
 🔍 Me encanta resolver problemas y aprender nuevas tecnologías.
 
 🎓 Mi objetivo es contribuir a proyectos de código abierto y construir soluciones innovadoras.
-
 <!--
 ## 🔧 Tecnologías
 <!-- Badges -->
@@ -40,6 +39,7 @@
   <!-- otros badges -->
 </p>
 -->
+
 
 ## 🔧 Tecnologías
 
