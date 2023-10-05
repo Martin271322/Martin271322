@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/Joel9211" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourhandle?color=1DA1F2&logo=twitter&style=flat-round">
   </a>
   <a href="https://github.com/Martin271322" target="_blank">
