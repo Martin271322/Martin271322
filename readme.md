@@ -9,6 +9,19 @@
   <a href="https://github.com/Martin271322"><img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=Follow%20on%20GitHub&style=social"></a>
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourhandle?color=1DA1F2&logo=twitter&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Martin271322" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Martin271322?color=181717&logo=github&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile-link/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+
 ## 📑 Índice
 
 - [Sobre mí](#-sobre-mí)
