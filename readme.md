@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Martin Martinez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+Autodidacta,;Estudiante+de+Ciencias+de+la+Computación,;Aficionado+de+CTF,;Aprendiz+activo/investigador,;Amante+de+aprender+cosas+nuevas...❤️">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+Autodidacta,;Estudiante+de+Desarrollo+de+Software,;Aficionado+de+la+Musica,;Aprendiz+activo/investigador,;Amante+de+aprender+cosas+nuevas...❤️">
 </p>
 
 <p align="center">
