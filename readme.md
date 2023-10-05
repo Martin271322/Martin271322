@@ -67,9 +67,10 @@
 
 <!-- Añade más categorías y badges según sea necesario -->
 
-
+<!--
 ```plaintext
 - Lenguajes de Programación: JavaScript, Python, Java, C++
 - Frameworks: React.js, Node.js, Express.js
 - Bases de Datos: MongoDB, PostgreSQL, MySQL
 - Herramientas: Git, GitHub, Docker, CI/CD
+-->
