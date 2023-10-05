@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ Sobre mí
 
-👨‍💻 Soy un Desarrollador Web autodidacta, actualmente estudiando Ciencias de la Computación.
+👨‍💻 Soy un Desarrollador Web autodidacta, actualmente estudiando Desarrollo de Software.
 
 🔍 Me encanta resolver problemas y aprender nuevas tecnologías.
 
