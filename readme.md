@@ -5,9 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourhandle?style=social"></a>
-  <a href="https://github.com/Martin271322"><img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?label=Follow%20on%20GitHub&style=social"></a>
+   <a href="https://x.com/Joel9211" target="_blank">
+    <img alt="X Follow" src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=social&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUwIDkwQzIyLjQ5IDkwIDAgNzAuNTEgMCA1MFMxOS41MSAxMCA0OSAxMCA1MCAyMS45IDY2LjA1IDE4LjM3IDgzLjM3IDM0LjU2IDgzIDQ5LjQyIDgzIDY1Ljg5IDc1LjU5IDc3LjcyIDYyLjczIDg2LjUgNTIuNjcgOTAgNDMuNzcgOTAgNTBjMCAxNy41MS0xNC40OSAzMC0zMyAzMHoiIGZpbGw9IiMxRDFGNiIvPjwvc3ZnPg==">
+  </a>
+  <a href="https://github.com/Martin271322" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Martin271322?color=181717&logo=github&style=flat-round">
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile-link/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-round&logo=linkedin&logoColor=white">
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://twitter.com/Joel9211" target="_blank">
